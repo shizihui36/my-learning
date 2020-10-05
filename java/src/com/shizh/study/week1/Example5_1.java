@@ -1,4 +1,4 @@
-package com.shizh.study;
+package com.shizh.study.week1;
 
 /**
  * @ClassName Example5_1
