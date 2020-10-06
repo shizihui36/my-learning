@@ -42,8 +42,8 @@ public  class ArrayTest {
             sum = max + min;
             System.out.println("最大值和最小值的和:" + sum);
 
-
-            for (int i = 0; i < a.length; i++) {
+/*
+            for (int i = 0; i < a.length-1; i++) {
                 for (int j = i+1; j < a.length; j++){
                     if (a[i] > a[j ]) {
                         int temp = a[i];
@@ -52,12 +52,33 @@ public  class ArrayTest {
                     }
 
                 }
-                System.out.print(a[i]+" ");
+//                System.out.print(a[i]+" ");
              }
+                for(int i = 0;i<a.length;i++ ){
+                    System.out.print(a[i]+" ");
+                }**/
+
+
+                   for (int i = 0 ;i < a.length; i++){
+                       int k=i;
+                       for (int j = a.length-1; j >i; j--){
+                           if (a[j]<a[k]){
+                               k=j;
+                           }
+                           int temp=a[i];
+                           a[i]=a[k];
+                           a[k]=temp;
+                       }
+
+                   }
+                   for (int i=0;i<a.length;i++){
+                       System.out.print(a[i]+" ");
+                   }
+
+            }
 
         }
 
-}
 
 
 
