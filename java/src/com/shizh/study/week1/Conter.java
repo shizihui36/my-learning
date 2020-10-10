@@ -40,7 +40,7 @@ package com.shizh.study.week1;
     }
 
 
-public class Example5_7 {
+public class Conter {
     public static void main(String[] args) {
         Circle circle = new Circle(10);
         System.out.println("main 方法中circle的引用:" + circle);
