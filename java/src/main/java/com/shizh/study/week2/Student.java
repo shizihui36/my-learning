@@ -19,4 +19,7 @@ public class Student {
     private String gender;
     private Phone phone;
     private Book[] book;
+
+    public Student(String s, int i, int i1) {
+    }
 }
