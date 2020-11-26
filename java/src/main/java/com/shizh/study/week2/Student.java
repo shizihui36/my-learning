@@ -20,6 +20,5 @@ public class Student {
     private Phone phone;
     private Book[] book;
 
-    public Student(String s, int i, int i1) {
-    }
+
 }

@@ -1,2 +1,0 @@
-# hello
-## wo like java

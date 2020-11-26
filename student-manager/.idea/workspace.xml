@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c6c4380-c1aa-4555-959a-4d298c1dd807" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/szh/sm/dao/impl/ClassDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/szh/sm/dao/impl/ClassDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/szh/sm/dao/ClazzDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/szh/sm/dao/ClazzDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/szh/sm/dao/impl/ClassDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/szh/sm/dao/impl/ClassDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/szh/sm/frame/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/szh/sm/frame/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/szh/sm/service/ClazzService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/szh/sm/service/ClazzService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="student_manager: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="student_manager: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_department: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven_jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHoYQrkZzclivf69TFhEFa7XPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="80" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="243" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.szh.sm.service" />
+      <recent name="com.szh.sm.dao" />
+      <recent name="com.szh.sm.factory" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.szh.sm.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration name="AliOSSUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.szh.sm.utils.AliOSSUtil" />
+      <module name="student-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szh.sm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.szh.sm.frame.MainFrame" />
+      <module name="student-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szh.sm.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClazzDaoTest.selectByDepartmentId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szh.sm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.szh.sm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.szh.sm.dao.ClazzDaoTest" />
+      <option name="METHOD_NAME" value="selectByDepartmentId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentDaoTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szh.sm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.szh.sm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.szh.sm.dao.DepartmentDaoTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szh.sm.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.szh.sm.service" />
+      <option name="MAIN_CLASS_NAME" value="com.szh.sm.service.DepartmentServiceTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="JUnit.ClazzDaoTest.selectByDepartmentId" />
+        <item itemvalue="JUnit.DepartmentDaoTest.insert" />
+        <item itemvalue="Application.AliOSSUtil" />
+        <item itemvalue="JUnit.DepartmentServiceTest.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c6c4380-c1aa-4555-959a-4d298c1dd807" name="Default Changelist" comment="" />
+      <created>1605366924299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605366924299</updated>
+      <workItem from="1605366931048" duration="2219000" />
+      <workItem from="1605442601986" duration="8506000" />
+      <workItem from="1605503437845" duration="4493000" />
+      <workItem from="1605572790628" duration="38000" />
+      <workItem from="1605609129380" duration="12066000" />
+      <workItem from="1605702230352" duration="4244000" />
+      <workItem from="1605884777264" duration="2348000" />
+      <workItem from="1605966852039" duration="1871000" />
+      <workItem from="1606021807709" duration="8265000" />
+      <workItem from="1606108748122" duration="23581000" />
+      <workItem from="1606176098500" duration="2580000" />
+      <workItem from="1606375281935" duration="53000" />
+      <workItem from="1606375367467" duration="52000" />
+      <workItem from="1606375464255" duration="366000" />
+      <workItem from="1606375931489" duration="100000" />
+      <workItem from="1606376077824" duration="367000" />
+      <workItem from="1606376510505" duration="724000" />
+      <workItem from="1606377554222" duration="155000" />
+      <workItem from="1606377905247" duration="108000" />
+      <workItem from="1606378217485" duration="147000" />
+      <workItem from="1606378647038" duration="51000" />
+      <workItem from="1606378801307" duration="870000" />
+      <workItem from="1606380063678" duration="708000" />
+      <workItem from="1606380800067" duration="348000" />
+      <workItem from="1606381312539" duration="30000" />
+      <workItem from="1606381912322" duration="166000" />
+      <workItem from="1606382109181" duration="947000" />
+      <workItem from="1606384186928" duration="46000" />
+      <workItem from="1606384266441" duration="191000" />
+      <workItem from="1606384504286" duration="246000" />
+      <workItem from="1606384785062" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1605366969602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1605366969602" />
+    <state x="463" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606123463418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606123463418" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605448743576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1605448743576" />
+    <state x="543" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1606384340883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="543" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606384340883" />
+    <state x="385" y="230" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606121451513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="230" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1606121451513" />
+    <state x="413" y="113" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605711898852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605711898852" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606109021196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606109021196" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1606384401912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606384401912" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1606384401912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606384401912" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1606384401911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606384401911" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1606384401912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606384401912" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1606123276867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1606123276867" />
+    <state x="20" y="18" key="SettingsEditor" timestamp="1606377958675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="20" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606377958675" />
+    <state x="738" y="164" key="UIDesigner.ListEditorDialog" timestamp="1606380437076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="164" key="UIDesigner.ListEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1606380437076" />
+    <state x="118" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1606384785830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="118" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606384785830" />
+    <state x="454" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606382775765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1606382775765" />
+    <state x="57" y="68" key="new project wizard" timestamp="1605368218055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605368218055" />
+    <state x="21" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606376784482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="21" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606376784482" />
+  </component>
+</project>

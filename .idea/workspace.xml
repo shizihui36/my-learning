@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22228da3-af7d-4eda-9b3a-54aac8716b9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/com/shizh/study/Example5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/out/production/java/com/shizh/study/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/LonginFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/LonginFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/LonginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/LonginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/StudentFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/StudentFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/StudentFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/one/StudentFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/week2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/com/shizh/study/week2/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iSODU26ZOfblLnjRD29ufazh1C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22228da3-af7d-4eda-9b3a-54aac8716b9a" name="Default Changelist" comment="" />
+      <created>1601897406814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601897406814</updated>
+      <workItem from="1601897408302" duration="2804000" />
+      <workItem from="1601901390389" duration="86000" />
+      <workItem from="1601901943102" duration="776000" />
+      <workItem from="1605450431227" duration="45000" />
+      <workItem from="1605884252751" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1605884325897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605884325897" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1605884252765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605884252765" />
   </component>
 </project>

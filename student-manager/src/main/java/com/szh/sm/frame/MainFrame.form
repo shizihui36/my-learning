@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.szh.sm.frame.MainFrame">
+  <grid id="27dc6" binding="Panel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <minimumSize width="10" height="10"/>
+      <preferredSize width="10" height="60"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="5c9b8" binding="topPanel" layout-manager="FlowLayout" hgap="20" vgap="20" flow-align="1">
+        <constraints border-constraint="North"/>
+        <properties>
+          <minimumSize width="10" height="10"/>
+          <preferredSize width="10" height="70"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="73f4c" class="javax.swing.JButton" binding="院系管理Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <horizontalTextPosition value="0"/>
+              <text value="院系管理"/>
+            </properties>
+            <clientProperties>
+              <hideActionText class="java.lang.Boolean" value="false"/>
+            </clientProperties>
+          </component>
+          <component id="c39c6" class="javax.swing.JButton" binding="班级管理Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <text value="班级管理"/>
+            </properties>
+          </component>
+          <component id="89211" class="javax.swing.JButton" binding="学生管理Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <text value="学生管理"/>
+            </properties>
+          </component>
+          <component id="6e396" class="javax.swing.JButton" binding="奖惩管理Button" default-binding="true">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <text value="奖惩管理"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="b832e" binding="centerPanel" layout-manager="CardLayout" hgap="0" vgap="0">
+        <constraints border-constraint="Center"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="19b39" binding="departmentPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints>
+              <card name="Card1"/>
+            </constraints>
+            <properties>
+              <background color="-9899457"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="abfad" binding="toolPanel" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints border-constraint="First"/>
+                <properties>
+                  <background color="-1"/>
+                  <preferredSize width="0" height="30"/>
+                  <visible value="true"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="47dbe" class="javax.swing.JButton" binding="新增院系Button" default-binding="true">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <text value="新增院系"/>
+                      <verticalTextPosition value="0"/>
+                      <visible value="true"/>
+                    </properties>
+                  </component>
+                  <component id="f2fa6" class="javax.swing.JButton" binding="切换显示Button" default-binding="true">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <text value="切换显示"/>
+                      <visible value="true"/>
+                    </properties>
+                  </component>
+                  <hspacer id="76d89">
+                    <constraints>
+                      <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                  </hspacer>
+                </children>
+              </grid>
+              <scrollpane id="c6d48">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <horizontalScrollBarPolicy value="31"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <grid id="255e" binding="contentPanel" layout-manager="CardLayout" hgap="0" vgap="0">
+                    <constraints/>
+                    <properties/>
+                    <border type="none"/>
+                    <children/>
+                  </grid>
+                </children>
+              </scrollpane>
+            </children>
+          </grid>
+          <grid id="40768" binding="classPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints>
+              <card name="Card2"/>
+            </constraints>
+            <properties>
+              <background color="-1183189"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="18454" binding="JPanel" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints border-constraint="North"/>
+                <properties>
+                  <preferredSize width="0" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="22029" class="javax.swing.JComboBox" binding="depCombobox">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <model>
+                        <item value="请选择院系"/>
+                      </model>
+                    </properties>
+                  </component>
+                  <component id="e8ed3" class="javax.swing.JTextField" binding="searchField">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                        <preferred-size width="150" height="-1"/>
+                      </grid>
+                    </constraints>
+                    <properties/>
+                  </component>
+                  <component id="6599a" class="javax.swing.JButton" binding="新增班级Button" default-binding="true">
+                    <constraints>
+                      <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <text value="新增班级"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <splitpane id="eb65f">
+                <constraints border-constraint="Center"/>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <grid id="c43af" binding="treePanel" layout-manager="CardLayout" hgap="0" vgap="0">
+                    <constraints>
+                      <splitpane position="left"/>
+                    </constraints>
+                    <properties>
+                      <background color="-1"/>
+                      <minimumSize width="120" height="120"/>
+                      <preferredSize width="120" height="300"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </grid>
+                  <scrollpane id="a9248">
+                    <constraints>
+                      <splitpane position="right"/>
+                    </constraints>
+                    <properties>
+                      <minimumSize width="18" height="5"/>
+                      <preferredSize width="10" height="10"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </scrollpane>
+                </children>
+              </splitpane>
+            </children>
+          </grid>
+          <grid id="42791" binding="studentPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints>
+              <card name="Card3"/>
+            </constraints>
+            <properties>
+              <background color="-886998"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+          <grid id="db243" binding="rewardPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints>
+              <card name="Card4"/>
+            </constraints>
+            <properties>
+              <background color="-1279758"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+        </children>
+      </grid>
+      <grid id="ac634" binding="leftPanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="10" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="West"/>
+        <properties>
+          <preferredSize width="130" height="24"/>
+          <visible value="true"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="75ffe" binding="addPanel" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                <preferred-size width="30" height="20"/>
+              </grid>
+            </constraints>
+            <properties>
+              <visible value="false"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="e39a1" class="javax.swing.JTextField" binding="depNameField">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties/>
+              </component>
+              <component id="cd3ce" class="javax.swing.JButton" binding="选择图片Button" default-binding="true">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <horizontalAlignment value="0"/>
+                  <text value="选择图片"/>
+                </properties>
+              </component>
+              <component id="485c" class="javax.swing.JLabel" binding="logoLabel">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="100" height="100"/>
+                    <maximum-size width="150" height="150"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <horizontalAlignment value="0"/>
+                  <text value="预览"/>
+                </properties>
+              </component>
+              <vspacer id="a455e">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="91638" class="javax.swing.JButton" binding="新增Button" default-binding="true">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="添加"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="cb6dd" binding="rightPanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="East"/>
+        <properties>
+          <preferredSize width="20" height="0"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="356ae" binding="buttonPanel" layout-manager="CardLayout" hgap="0" vgap="0">
+        <constraints border-constraint="South"/>
+        <properties>
+          <preferredSize width="0" height="20"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+    </children>
+  </grid>
+</form>
