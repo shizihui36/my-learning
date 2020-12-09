@@ -23,6 +23,7 @@ public class AdminServiceImpl implements AdminService {
         ResultEntity resultEntity;
         Admin admin = null;
         try {
+            //根据账号查找管理员信息，捕获SQL异常
             admin = adminDao.findAdminByAccount(account);
         }catch (SQLException e){
             System.err.println("根据账号查找管理员信息出现SQL异常");

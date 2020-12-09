@@ -10,8 +10,8 @@ import java.util.List;
 public class ClazzServiceTest {
     @Test
    public void getClazzByDepId(){
-//       List<Clazz> list = ServiceFactory.getClazzServiceInstance().getClazzByDepId(5);
-//       list.forEach(System.out::println);
+//
+       List<Clazz> list = ServiceFactory.getClazzServiceInstance().getClazzByDepId(5);
+       list.forEach(System.out::println);
     }
-
 }

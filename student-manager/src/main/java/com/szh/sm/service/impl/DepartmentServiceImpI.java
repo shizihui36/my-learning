@@ -40,10 +40,10 @@ public class DepartmentServiceImpI implements DepartmentService {
     }
 
     @Override
-    public int delDepartment(Department department, Integer id) {
+    public int delete(int depId) {
         int n = 0;
         try {
-            n = departmentDao.delectDepartment(department,id);
+            n = departmentDao.delete(depId);
         }catch (SQLException e){
             System.err.print("删除院系信息出现异常");
         }
